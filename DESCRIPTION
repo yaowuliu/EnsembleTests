@@ -1,0 +1,12 @@
+Package: EnsembleTests
+Type: Package
+Title: Ensemble tests
+Version: 0.80
+Date: 2023-12-08
+Author: Yaowu Liu
+Maintainer: Yaowu Liu <yaowuliu615@gmail.com>
+Description: For now, this package implemented the ensemble subset chi-squared test. Regarding the ensemble Burden, SKAT and MORST tests, these tests are implemented in the MORST package.
+License: GPLv3
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.2

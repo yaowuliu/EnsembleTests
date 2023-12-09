@@ -1,0 +1,3 @@
+useDynLib(EnsembleTests, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+export(EnSubsetChisq)
