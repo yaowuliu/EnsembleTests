@@ -4,5 +4,5 @@ This package implemented the ensemble subset chi-squared tests. For the implemen
 ## Installation
 ```
 library(devtools)
-devtools::install_github("EnsembleTests")
+devtools::install_github("yaowuliu/EnsembleTests")
 ```
